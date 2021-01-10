@@ -8,3 +8,12 @@ This repositories will allow you to turn on and off your Bluetooth activity prog
 
 ## :heavy_check_mark: Screenshots
 Below are example screenshot on how this app works.
+
+## Start Up
+![Screenshot_20210111-001805](https://user-images.githubusercontent.com/40444648/104128484-c3388280-53a2-11eb-9565-d3bc9e567797.png)
+
+## Bluetooth ON
+![Screenshot_20210111-001920](https://user-images.githubusercontent.com/40444648/104128491-cb90bd80-53a2-11eb-9af5-277215c60f62.png)
+
+## Bluetooth OFF
+![Screenshot_20210111-001925](https://user-images.githubusercontent.com/40444648/104128496-d3506200-53a2-11eb-9f2f-1ac37545cc0c.png)
